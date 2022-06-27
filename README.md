@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" width="224px"/><br/>
-  Golang Backend Task - Anime API ( MyAnimeList.net )
+  Golang Anime API EndPoint ( MyAnimeList.net )
 </h1>
 <p align="center">An api project which can retrieve anime details from MyAnimeList.net by parsing animeID in post request and also store it in a structure database. Project also deployed on cloud on azure instance at http://52.172.236.141/anim</p>
 
